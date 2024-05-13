@@ -32,7 +32,6 @@ const keyObject = {
 
 const headingsArray = [beershiteHeading,nechedicsHeading,retrofuterHeading,lbfeatpoppeteHeading,suritiHeading,twistHeading,soffaeHeading,larbusissonireeeHeading];
 
-console.log("the key ",keyObject.beershiteHeading)
 
 // for vedio section
 const vedioSection = document.querySelector(".vedio-section")
